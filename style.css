@@ -60,6 +60,7 @@ nav > img {
     font-family: 'Alkatra', cursive;
     color: white;
     font-size: 4rem;
+    text-shadow: 0 0 8px rgb(50, 50, 50);
 }
 
 .categories {
